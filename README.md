@@ -6,11 +6,18 @@ teacher: 5y4#qdaL0Ei
 student: E54i0MN_Apq
 visitor: 880_NV2Bgwl
 
+申报网站-2020 南昌大学-信息管理学院-多应用场景电机虚拟仿真实验
+http://www.ncdx.moocmooe.com/ncdx20vsjnfm
 
-2020年新余学院_机电工程学院_220kv变电站作业及故障模拟虚拟仿真试验系统项目申报群
-网址：http://www.vszwcq.moocmooe.com/xyxy20vszwcq
-用户名：teacher
-密码：IzS3r3y5!HE
+admin:k1OAuhFOi!6
+teacher:kVR3u6w#4p1
+
+新余学院-机电工程学院-110kv变电站作业及故障模拟虚拟仿真试验系统
+
+http://www.vszwcq.moocmooe.com/xyxy20vszwcq
+
+admin: 07naGXM6f@0
+teacher: IzS3r3y5!HE
 
 
 2020年攀枝花学院_微电网项目申报群
@@ -35,12 +42,6 @@ visitor: 880_NV2Bgwl
 网址：http://119.23.40.38/zjgydx20vsmkrq
 用户名：teacher
 密码：^v^CLOUDlearn@teacher.COM*U*
-
-
-2020年南昌大学_信息工程学院_多应用场景电机虚拟仿真实验项目申报群
-网址：http://www.ncdx.moocmooe.com/ncdx20vsjnfm
-用户名：visitor
-密码：ujo9t0T?D8M
 
 
 长春工程学院-电气与信息工程学院-智能电网变电站继电保护虚拟仿真实验系统
