@@ -1,6 +1,5 @@
 福建工程学院-信息科学与工程学院-沿海地区低风速风力发电机抗台风虚拟仿真实验
 http://www.zxojhg.moocmooe.com/zxojhg
-
 cloudlearn_fjgcxy_xxkxygcxy_yhdq
 admin: C12cSxi?v76
 teacher: 5y4#qdaL0Ei
@@ -9,11 +8,8 @@ visitor: 880_NV2Bgwl
 
 
 2020年新余学院_机电工程学院_220kv变电站作业及故障模拟虚拟仿真试验系统项目申报群
-
 网址：http://www.vszwcq.moocmooe.com/xyxy20vszwcq
-
 用户名：teacher
-
 密码：IzS3r3y5!HE
 
 
