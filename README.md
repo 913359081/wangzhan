@@ -76,6 +76,14 @@ teacher:B$ft25Zi9PW
 student:Iv8blV08?Fi
 visitor:J0axZQM&G4Z
 
+厦门理工学院学习平台
+http://www.ctmdlj.moocmooe.com/ctmdlj
+admin: 7R8FAq60ra_
+teacher: 8Apy%2e3I2s
+student: e3Bz9DfXl!1
+visitor: ac11!z0GuV9
+
+
 GIT账号密码
 913359081@qq.com
 MEIxinzhi1993127@
