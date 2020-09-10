@@ -79,3 +79,7 @@ visitor:J0axZQM&G4Z
 GIT账号密码
 913359081@qq.com
 MEIxinzhi1993127@
+
+蓝湖账号：
+hedexy@sina.cn
+xxlxxl123
