@@ -68,9 +68,7 @@ teacher: IzS3r3y5!HE
 
 
 申报网站-2020 福州大学-至诚学院-发电厂认识实训虚拟仿真实验软件
-
 http://www.fzdxfd.moocmooe.com/fzdx20vsrfdo
-
 admin:?0RGkQT40wA
 teacher:B$ft25Zi9PW
 student:Iv8blV08?Fi
@@ -79,7 +77,7 @@ visitor:J0axZQM&G4Z
 厦门理工学院学习平台
 http://www.ctmdlj.moocmooe.com/ctmdlj
 admin: 7R8FAq60ra_
-teacher: 8Apy%2e3I2s
+teacher: #cuUira0pQY
 student: e3Bz9DfXl!1
 visitor: ac11!z0GuV9
 
