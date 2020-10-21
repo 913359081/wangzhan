@@ -81,6 +81,13 @@ teacher: #cuUira0pQY
 student: e3Bz9DfXl!1
 visitor: ac11!z0GuV9
 
+申报网站——中国石油大学——典型石油钻采设备电气节能技术虚拟仿真实验
+http://www.hctcua.moocmooe.com/hctcua/login?_=16032719706854218
+admin  yM434er1_S  修改
+teacher  H4opk88#be  修改
+visitor  1WhO942@A0  修改
+student  dV6#JG0xiK  修改
+zhuanjia  nH8XxSG7w@  修改
 
 GIT账号密码
 913359081@qq.com
