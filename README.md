@@ -36,7 +36,8 @@ teacher: IzS3r3y5!HE
 网址：http://www.shdldx.moocmooe.com/shdldx20vshlcn
 用户名：teacher
 密码：RI#VRp3Ht80
-
+admin  hYj?b2Xr5ZB  
+teacher RI#VRp3Ht80
 
 2020年浙江工业大学_智慧电能园区虚拟仿真实验项目申报群
 网址：http://119.23.40.38/zjgydx20vsmkrq
