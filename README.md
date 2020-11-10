@@ -97,3 +97,12 @@ MEIxinzhi1993127@
 蓝湖账号：
 hedexy@sina.cn
 xxlxxl123
+
+
+合肥工业大学——智能电网变电站继电保护虚拟仿真软件
+http://www.gmotaf.moocmooe.com/gmotaf
+admin   5!hPneoCjL
+teacher 123456
+student 6&m7191SHf
+visitor 6$2Fb6A1Q5
+zhuanjia    9zv8?4CvgX
