@@ -101,3 +101,13 @@ teacher 123456
 student 6&m7191SHf
 visitor 6$2Fb6A1Q5
 zhuanjia    9zv8?4CvgX
+
+
+温州大学——直流高电压虚拟仿真实验（暂定）
+http://www.ethsbz.moocmooe.com/ethsbz
+
+visitor 8C9O0hRl#d
+teacher 123456
+admin   _qszuSp4Pq
+student u52G&gvF62
+zhuanjia    #vC8eF8DI2
