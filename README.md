@@ -26,11 +26,6 @@ teacher: IzS3r3y5!HE
 密码：^v^CLOUDlearn@teacher.COM*U*
 
 
-2020年至诚学院-发电厂认识实训虚拟仿真实验软件项目申报群
-网址：http://www.shdldx.moocmooe.com/shdldx20vshlcn
-用户名：student
-密码：Iv8blV08?Fi
-
 
 2020年上海电力大学-电气学院-1000MW发电机组电气运行虚拟仿真实验项目申报群
 网址：http://www.shdldx.moocmooe.com/shdldx20vshlcn
