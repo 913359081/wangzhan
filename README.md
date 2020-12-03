@@ -42,12 +42,14 @@ teacher RI#VRp3Ht80
 
 长春工程学院-电气与信息工程学院-智能电网变电站继电保护虚拟仿真实验系统
 网址：http://www.beurip.moocmooe.com/beurip
-用户名：teacher
-密码：cQ$FbEBZ449
-#长春工程学院-电气与信息工程学院-直流电场放电冲击虚拟仿真试验系统
-网址：http://www.beurip.moocmooe.com/beurip
-用户名：teacher
-密码：ZU111$n7Bkq
+admin  Nt8gS335RD#  修改
+teacher  cQ$FbEBZ449  修改
+#长春工程学院-电气与信息工程学院
+直流电场放电冲击虚拟仿真试验系统
+http://www.jmwbou.moocmooe.com/jmwbou
+用户名  密码  操作
+admin  16_E6YO2PY  修改
+teacher  ZU111$n7Bkq  修改
 
 
 2020年上海工程技术大学_智能微网项目申报群
