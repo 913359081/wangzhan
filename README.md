@@ -13,9 +13,7 @@ admin:k1OAuhFOi!6
 teacher:kVR3u6w#4p1
 
 新余学院-机电工程学院-110kv变电站作业及故障模拟虚拟仿真试验系统
-
 http://www.vszwcq.moocmooe.com/xyxy20vszwcq
-
 admin: 07naGXM6f@0
 teacher: IzS3r3y5!HE
 
@@ -107,9 +105,12 @@ zhuanjia    9zv8?4CvgX
 
 温州大学——直流高电压虚拟仿真实验（暂定）
 http://www.ethsbz.moocmooe.com/ethsbz
-
 visitor 8C9O0hRl#d
 teacher 123456
 admin   _qszuSp4Pq
 student u52G&gvF62
 zhuanjia    #vC8eF8DI2
+
+厦门理工学院——智能送药机器人虚拟仿真实验
+http://www.ztbsnv.moocmooe.com/ztbsnv
+admin:rqrd4X%Clvu
