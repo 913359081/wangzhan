@@ -120,3 +120,11 @@ admin:rqrd4X%Clvu
 http://119.23.40.38/whgcdx20vswywl
 admin：B2usbw6C?2
 teacher：^v^CLOUDlearn@teacher.COM*U*
+
+
+http://www.uopedk.moocmooe.com/uopedk	巢湖学院	巢湖学院	变电站自动化实验室虚拟仿真软件
+账号：密码
+teacher：123456
+student：swGT14311&
+visitor：DK1l54m27%
+zhuanjia：5dwso%O2q9”
