@@ -114,3 +114,9 @@ zhuanjia    #vC8eF8DI2
 厦门理工学院——智能送药机器人虚拟仿真实验
 http://www.ztbsnv.moocmooe.com/ztbsnv
 admin:rqrd4X%Clvu
+
+
+武汉工程大学——工厂供配电所运行操作与故障处理虚拟仿真实验
+http://119.23.40.38/whgcdx20vswywl
+admin：B2usbw6C?2
+teacher：^v^CLOUDlearn@teacher.COM*U*
