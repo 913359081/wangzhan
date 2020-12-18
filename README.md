@@ -136,7 +136,7 @@ student  2HAI3_6gFy
 visitor    !PMfF84R92
 zhuanjia  &92rxhhHu0
 
-湖北理工学院——直流电场放电冲击虚拟仿真实验
+湖北理工学院——
 http://www.bgyrao.moocmooe.com/bgyrao
 teacher
 123456
