@@ -129,3 +129,15 @@ student：swGT14311&
 visitor：DK1l54m27%
 zhuanjia：5dwso%O2q9”
 admin:bEq55#ZS3r
+
+
+
+学校： 山西大学
+学院： 电气学院
+项目名称： 直流电场放电冲击虚拟仿真实验
+http://www.lntxye.moocmooe.com/lntxye
+teacher  123456
+admin    vPSd1$Aex2
+student  2HAI3_6gFy
+visitor    !PMfF84R92
+zhuanjia  &92rxhhHu0
