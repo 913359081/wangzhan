@@ -23,8 +23,6 @@ teacher: IzS3r3y5!HE
 用户名：teacher
 密码：^v^CLOUDlearn@teacher.COM*U*
 
-
-
 2020年上海电力大学-电气学院-1000MW发电机组电气运行虚拟仿真实验项目申报群
 网址：http://www.shdldx.moocmooe.com/shdldx20vshlcn
 用户名：teacher
@@ -115,12 +113,10 @@ zhuanjia    #vC8eF8DI2
 http://www.ztbsnv.moocmooe.com/ztbsnv
 admin:rqrd4X%Clvu
 
-
 武汉工程大学——工厂供配电所运行操作与故障处理虚拟仿真实验
 http://119.23.40.38/whgcdx20vswywl
 admin：B2usbw6C?2
 teacher：^v^CLOUDlearn@teacher.COM*U*
-
 
 http://www.uopedk.moocmooe.com/uopedk	巢湖学院	巢湖学院	变电站自动化实验室虚拟仿真软件
 账号：密码
@@ -129,8 +125,6 @@ student：swGT14311&
 visitor：DK1l54m27%
 zhuanjia：5dwso%O2q9”
 admin:bEq55#ZS3r
-
-
 
 学校： 山西大学
 学院： 电气学院
@@ -141,3 +135,14 @@ admin    vPSd1$Aex2
 student  2HAI3_6gFy
 visitor    !PMfF84R92
 zhuanjia  &92rxhhHu0
+
+湖北理工学院——直流电场放电冲击虚拟仿真实验
+http://www.bgyrao.moocmooe.com/bgyrao
+teacher
+123456
+student
+fcn_2houDM
+visitor
+7$79BQxga7
+zhuanjia
+0h0oDA2#wH
