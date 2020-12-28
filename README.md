@@ -58,6 +58,8 @@ teacher  ZU111$n7Bkq  修改
 网址：http://www.vsvwcr.moocmooe.com/cqdx20vsvwcr
 用户名：teacher
 密码：6pC429k0@2Y
+admin
+^v^CLOUDlearn@admin.COM*U*
 
 
 
